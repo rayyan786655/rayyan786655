@@ -1,179 +1,157 @@
-
-<!-- =============================================== -->
-<!--           MD RAYYAN WAHIDI PROFILE              -->
-<!-- =============================================== -->
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3a0d14,100:E63946&height=240&section=header&text=MD%20RAYYAN%20WAHIDI&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Python%20Developer&descSize=18&descAlignY=58" width="100%"/>
 
-# MD RAYYAN WAHIDI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;Exploring+Artificial+Intelligence;Python+%7C+Machine+Learning+%7C+OpenCV;Turning+Ideas+Into+Code" alt="Typing animation"/>
 
-### AI & Python Developer | Machine Learning Enthusiast
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Building+Intelligent+Applications;Exploring+Artificial+Intelligence;Python+%7C+Machine+Learning+%7C+OpenCV;Turning+Ideas+Into+Code" />
+<a href="https://github.com/rayyan786655"><img src="https://img.shields.io/badge/GitHub-rayyan786655-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-rayyan-wahidi-286402390/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=rayyan786655&label=Profile%20Views&color=E63946&style=for-the-badge"/>
+
+</div>
 
 <br/>
 
-<a href="https://github.com/rayyan786655">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/md-rayyan-wahidi-286402390/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-Hi! I'm **Md Rayyan Wahidi**, an aspiring AI & Python Developer passionate about building intelligent applications and solving real-world problems through technology.
+Hi! I'm **Md Rayyan Wahidi**, an aspiring AI & Python developer who loves building intelligent applications that solve real-world problems.
 
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🐍 Working with Python and Computer Vision.
-- 💻 Exploring software development and automation.
-- 🚀 Building practical AI-based projects.
-- 📚 Always learning and improving my skills.
+- 🤖 Exploring **Artificial Intelligence** and **Machine Learning**
+- 👁️ Building with **Computer Vision** (OpenCV, YOLO, MediaPipe)
+- 🐍 Writing **Python** for automation and AI-based tools
+- 📚 Currently learning: **Deep Learning, PyTorch, Model Deployment**
+- 🎯 Goal: build and ship practical AI products
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark"/>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql&theme=dark"/>
 
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white"/>
+<br/>
 
-</div>
-
-### 🤖 AI, Computer Vision & Data Science
-
-<div align="center">
-
+**AI / Computer Vision / Data**<br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
 
-</div>
+<br/>
 
-### 🌐 Web & Application Development
-
-<div align="center">
-
+**Web & Apps**<br/>
 <img src="https://skillicons.dev/icons?i=react,fastapi,sqlite&theme=dark"/>
-
 <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</div>
+<br/>
 
-### 🗄️ Database & Developer Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"/>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Smart Attendance System
+Face-recognition attendance using live camera detection.
 
-An AI-powered attendance application using face recognition and camera-based detection.
+**Stack:** `Python` `OpenCV` `Face Recognition`
 
-**Technologies:** Python, OpenCV, Face Recognition
+[🔗 View Repo](https://github.com/rayyan786655/REPO-NAME)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI Mental Health Monitoring
+### 🧠 AI Mental Health Monitor
+Tracks mental well-being through daily check-ins and analysis.
 
-An AI-based application designed to monitor mental well-being through daily check-ins and analysis.
+**Stack:** `Python` `ML` `Tkinter`
 
-**Technologies:** Python, Machine Learning, Tkinter
+[🔗 View Repo](https://github.com/rayyan786655/REPO-NAME)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👁️ Real-Time Object Detection
+Detects and labels objects from a live camera feed.
 
-A computer vision project that detects and identifies objects through a live camera feed.
+**Stack:** `Python` `OpenCV` `YOLO`
 
-**Technologies:** Python, OpenCV, YOLO
+[🔗 View Repo](https://github.com/rayyan786655/REPO-NAME)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💡 More Coming Soon
-
-Continuously exploring new ideas, technologies, and innovative projects.
+Exploring new ideas, tools, and projects.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rayyan786655&show_icons=true&theme=dark&hide_border=true&title_color=E63946&icon_color=E63946&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rayyan786655&show_icons=true&theme=transparent&hide_border=true&title_color=E63946&icon_color=E63946&text_color=c9d1d9&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyan786655&layout=compact&theme=transparent&hide_border=true&title_color=E63946&text_color=c9d1d9"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyan786655&layout=compact&theme=dark&hide_border=true&title_color=E63946"/>
+<br/>
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rayyan786655&theme=dark&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=rayyan786655&theme=dark&hide_border=true&background=00000000&ring=E63946&fire=E63946&currStreakLabel=E63946"/>
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Activity
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution animation"/>
 
-</div>
-
----
-
-## 📫 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/rayyan786655">
-<img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-rayyan-wahidi-286402390/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin"/>
-</a>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=rayyan786655&bg_color=0d1117&color=E63946&line=E63946&point=FFFFFF&area=true&area_color=3a0d14&hide_border=true&radius=8"
+width="100%"
+alt="Rayyan's GitHub Contribution Graph"
+/>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+<img
+src="https://raw.githubusercontent.com/rayyan786655/rayyan786655/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
 
-### "Code. Learn. Build. Repeat."
+</div>
+
+
+<br/>
+
+<div align="center">
+
+### *"Code. Learn. Build. Repeat."*
 
 ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:3a0d14,100:0d1117&height=140&section=footer" width="100%"/>
 
 </div>
