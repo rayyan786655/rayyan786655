@@ -123,25 +123,21 @@ Exploring new ideas, tools, and projects.
 
 
 
-## 📈 Contribution Activity
+
+## 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=rayyan786655&bg_color=0d1117&color=E63946&line=E63946&point=FFFFFF&area=true&area_color=3a0d14&hide_border=true&radius=8"
-width="100%"
-alt="Rayyan's GitHub Contribution Graph"
-/>
+### 🐍 My Contribution Snake
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/rayyan786655/rayyan786655/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Rayyan's GitHub Contribution Snake"/>
 
-<img
-src="https://raw.githubusercontent.com/rayyan786655/rayyan786655/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
+<br/>
+
+[View My GitHub Contribution Calendar](https://github.com/rayyan786655)
 
 </div>
+
 
 
 <br/>
